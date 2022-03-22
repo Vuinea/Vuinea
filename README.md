@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Vuinea
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Vuinea/Vuinea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.  
---->
+# About Me
+My main programming language is Python and JavaScript, but I know a bit of C# and Java. I am mainly a web developer but have some other projects as
